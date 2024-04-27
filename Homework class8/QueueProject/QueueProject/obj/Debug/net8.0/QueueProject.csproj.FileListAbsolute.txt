@@ -1,0 +1,14 @@
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\obj\Debug\net8.0\QueueProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\obj\Debug\net8.0\QueueProject.AssemblyInfoInputs.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\obj\Debug\net8.0\QueueProject.AssemblyInfo.cs
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\obj\Debug\net8.0\QueueProject.csproj.CoreCompileInputs.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\bin\Debug\net8.0\QueueProject.exe
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\bin\Debug\net8.0\QueueProject.deps.json
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\bin\Debug\net8.0\QueueProject.runtimeconfig.json
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\bin\Debug\net8.0\QueueProject.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\bin\Debug\net8.0\QueueProject.pdb
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\obj\Debug\net8.0\QueueProject.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\obj\Debug\net8.0\refint\QueueProject.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\obj\Debug\net8.0\QueueProject.pdb
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\obj\Debug\net8.0\QueueProject.genruntimeconfig.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class8\QueueProject\QueueProject\obj\Debug\net8.0\ref\QueueProject.dll

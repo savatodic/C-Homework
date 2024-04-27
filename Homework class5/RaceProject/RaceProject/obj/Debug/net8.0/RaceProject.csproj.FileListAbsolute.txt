@@ -1,0 +1,14 @@
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\bin\Debug\net8.0\RaceProject.exe
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\bin\Debug\net8.0\RaceProject.deps.json
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\bin\Debug\net8.0\RaceProject.runtimeconfig.json
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\bin\Debug\net8.0\RaceProject.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\bin\Debug\net8.0\RaceProject.pdb
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\obj\Debug\net8.0\RaceProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\obj\Debug\net8.0\RaceProject.AssemblyInfoInputs.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\obj\Debug\net8.0\RaceProject.AssemblyInfo.cs
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\obj\Debug\net8.0\RaceProject.csproj.CoreCompileInputs.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\obj\Debug\net8.0\RaceProject.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\obj\Debug\net8.0\refint\RaceProject.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\obj\Debug\net8.0\RaceProject.pdb
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\obj\Debug\net8.0\RaceProject.genruntimeconfig.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class5\RaceProject\RaceProject\obj\Debug\net8.0\ref\RaceProject.dll

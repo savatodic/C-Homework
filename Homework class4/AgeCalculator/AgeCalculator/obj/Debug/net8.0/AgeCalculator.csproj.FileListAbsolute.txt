@@ -1,0 +1,14 @@
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfo.cs
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.exe
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.deps.json
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.runtimeconfig.json
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.pdb
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\obj\Debug\net8.0\refint\AgeCalculator.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.pdb
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.genruntimeconfig.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class4\AgeCalculator\AgeCalculator\obj\Debug\net8.0\ref\AgeCalculator.dll

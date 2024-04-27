@@ -1,0 +1,14 @@
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfo.cs
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.exe
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.deps.json
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.runtimeconfig.json
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.pdb
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\obj\Debug\net8.0\refint\SumOfEven.dll
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.pdb
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.genruntimeconfig.cache
+C:\Users\todic\OneDrive\Documents\Homework C#\Homework class3\SumOfEven\SumOfEven\obj\Debug\net8.0\ref\SumOfEven.dll
